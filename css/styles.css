@@ -204,6 +204,10 @@ svg {
   margin: 0 auto;
 }
 
+.backdrop {
+  position: fixed;
+}
+
 /* Кнопка у герої */
 
 .request-our-service {

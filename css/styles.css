@@ -326,6 +326,8 @@ svg {
   margin: 0;
   padding: 27px 0;
   white-space: nowrap;
+  width: 370px;
+  text-align: center;
 
   font-size: 14px;
   line-height: 1.14;

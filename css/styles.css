@@ -291,8 +291,6 @@ svg {
 
 .button-close-icon {
   fill: var(--logo-color-black);
-  color: var(--logo-color-black);
-
   width: 18px;
   height: 18px;
 }

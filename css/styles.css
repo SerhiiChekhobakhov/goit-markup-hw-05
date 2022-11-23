@@ -104,7 +104,8 @@ svg {
   transition: opacity var(--transition-timing) var(--timing-function);
 }
 
-.nav-link:hover::after {
+.nav-link:hover::after,
+.nav-link:focus::after {
   opacity: 1;
 }
 
@@ -660,7 +661,8 @@ svg {
   padding: 63px 24px;
 }
 
-.product-link:hover .product-overlay {
+.product-link:hover .product-overlay,
+.product-link:focus .product-overlay {
   transform: translateY(0);
 }
 
